@@ -1,1 +1,5 @@
 SRC += source.c
+
+# OLED
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
